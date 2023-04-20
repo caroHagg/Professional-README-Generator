@@ -6,7 +6,7 @@
 
 
 ## Description
-This is a great app for you to have specially if ReADMe files are not your thing. 
+This is a great app for you to have specially if ReADMe files are not your thing.  
 
 
 ## Table of Contents 

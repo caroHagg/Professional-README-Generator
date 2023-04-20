@@ -63,7 +63,7 @@ function writeToFile(fileName, templateFile) {
 //function to create Markdown template
 
 function generateMarkdown(data) {
-const titleReadme = `${data.title.toLowerCase().split(' ').join('-')}.md`;
+const titleReadme = `${data.title.toLowerCase().split(' ').join('-')}-README.md`;
 const license = `${data.license}`
 const readmeTemplate = `
 # ${data.title}\n
